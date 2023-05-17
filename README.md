@@ -95,11 +95,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 </a> -->
-
-</p>
-
-<p align="center">
-<a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
@@ -108,7 +104,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
+
 </p>
+
 <!-- svg -->
 <div>
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
